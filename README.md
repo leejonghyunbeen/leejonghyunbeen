@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=CATT&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=CAT&animation=fadeIn)
 
 
 <h1 align="center">Hi:octocat: , I'm 이종현빈</h1>
