@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?text=SIMPLE_IS_BEST&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=CAT:octocat:T&animation=fadeIn)
 
-<h1 align="center">Hi 👋:womans_hat:, I'm 이종현빈</h1>
+<h1 align="center">Hi , I'm 이종현빈</h1>
 <h3 align="center">SIMPLE IS THE BEST</h3>
-:womans_hat:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
