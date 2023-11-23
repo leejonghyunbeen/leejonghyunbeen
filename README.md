@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=simple is best&animation=fadeIn)
+
 <h1 align="center">Hi 👋, I'm 이종현빈</h1>
 <h3 align="center">SIMPLE IS THE BEST</h3>
 
